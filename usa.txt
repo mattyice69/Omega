@@ -1,0 +1,743 @@
+#EXTM3U
+#EXTINF:-1, --------Awesome.tv-----
+
+
+#EXTINF:-1,UK: 4Seven HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14064.ts
+#EXTINF:-1,UK: 5Star (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14063.ts
+#EXTINF:-1,UK: 5 STAR +1 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14062.ts
+#EXTINF:-1,UK: 5 USA +1 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14061.ts
+#EXTINF:-1,UK: 5USA (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14055.ts
+#EXTINF:-1,UK: AL JAZEERA HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14046.ts
+#EXTINF:-1,UK: AMC HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14050.ts
+#EXTINF:-1,UK: ANIMAL PLANET +1  (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14059.ts
+#EXTINF:-1,UK :ANIMAL PLANET (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14060.ts
+#EXTINF:-1,UK: AT THE RACES (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14058.ts
+#EXTINF:-1,UK: BABY TV (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14039.ts
+#EXTINF:-1,UK: BBC ONE HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14053.ts
+#EXTINF:-1,UK: BBC ONE NI HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14052.ts
+#EXTINF:-1,UK: BBC ONE SCOTTLAND FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14057.ts
+#EXTINF:-1,UK: BBC ONE WALES FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14051.ts
+#EXTINF:-1,UK: BBC TWO HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14038.ts
+#EXTINF:-1,UK: BEST DIRECTS (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14000.ts
+#EXTINF:-1,UK: BET (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14054.ts
+#EXTINF:-1,UK: BIKE SD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14040.ts
+#EXTINF:-1,UK: BLOOMBERG HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14042.ts
+#EXTINF:-1,UK: BOOMERANG +1 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14044.ts
+#EXTINF:-1,UK: BOOMERANG (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14043.ts
+#EXTINF:-1,UK: BOX HITS  (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14045.ts
+#EXTINF:-1,UK: BOX UPFRONT (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14041.ts
+#EXTINF:-1,UK: BT SPORTS ESPN HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14016.ts
+#EXTINF:-1,UK: BT SPORTS 1 HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14049.ts
+#EXTINF:-1,UK: BT SPORTS 2 HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14048.ts
+#EXTINF:-1,UK: BT SPORTS  3 HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14047.ts
+#EXTINF:-1,UK: CARTOON NETWORK (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14037.ts
+#EXTINF:-1,UK: CARTOON NETWORK HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14027.ts
+#EXTINF:-1,UK: CBBC HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14036.ts
+#EXTINF:-1,UK: CHANNELl 4 +1 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14032.ts
+#EXTINF:-1,UK: CHANNEL4 HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14030.ts
+#EXTINF:-1,UK:CHANNEL 5 HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14029.ts
+#EXTINF:-1,UK: CHANNEL5 +1 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14031.ts
+#EXTINF:-1,UK: CHANNEL AKA (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14028.ts
+#EXTINF:-1,UK: CHARTSHOW TV (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14017.ts
+#EXTINF:-1,UK:CNN INTERNATONAL (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14035.ts
+#EXTINF:-1,UK: COMEDY CENTRAL HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14023.ts
+#EXTINF:-1,UK: COMEDY XTRA (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14026.ts
+#EXTINF:-1,UK: CRIME & INVESTIGATION (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14024.ts
+#EXTINF:-1,UK: DAVE HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14019.ts
+#EXTINF:-1,UK: DISCOVERY SCIENCE (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14018.ts
+#EXTINF:-1,UK: DISCOVERY TURBO (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14021.ts
+#EXTINF:-1,UK: DISCOVERY+ 1 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14008.ts
+#EXTINF:-1,UK: DISCOVERY HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13941.ts
+#EXTINF:-1,UK: DISCOVERY HISTORY (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14015.ts
+#EXTINF:-1,UK: DISCOVERY SHED (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14014.ts
+#EXTINF:-1,UK: DISNEY CHANNEL +1 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14005.ts
+#EXTINF:-1,UK: DISNEY JUNIOR (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14010.ts
+#EXTINF:-1,UK: DISNEY XD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14009.ts
+#EXTINF:-1,UK: DMAX (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13988.ts
+#EXTINF:-1,UK: DRAMA (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14004.ts
+#EXTINF:-1,UK: E!  (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14002.ts
+#EXTINF:-1,UK:E4 HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13919.ts
+#EXTINF:-1,UK: E4 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14013.ts
+#EXTINF:-1,UK:EDEN (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13989.ts
+#EXTINF:-1,UK: EDEN HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13999.ts
+#EXTINF:-1,UK: EIR SPORTS 2 HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14011.ts
+#EXTINF:-1,UK  EUROSPORTS 2 FHD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13997.ts
+#EXTINF:-1,UK: EUROSPORTS 1 FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13995.ts
+#EXTINF:-1,UK: FILM 4 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13993.ts
+#EXTINF:-1,UK: FLAVA (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13994.ts
+#EXTINF:-1,UK: FOX (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13991.ts
+#EXTINF:-1,UK: FOX HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13998.ts
+#EXTINF:-1,UK: FRONTRUNNER (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13996.ts
+#EXTINF:-1,UK:FRONTRUNNER 2 (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13990.ts
+#EXTINF:-1,UK: GOLD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13992.ts
+#EXTINF:-1,UK: GOOD FOOD  (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13976.ts
+#EXTINF:-1,UK: GOOD FOOD HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13987.ts
+#EXTINF:-1,UK: H2 HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13978.ts
+#EXTINF:-1,UK: RACING HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13933.ts
+#EXTINF:-1,UK: REALLY (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13940.ts
+#EXTINF:-1,UK: RT (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13938.ts
+#EXTINF:-1,UK: S4C HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13932.ts
+#EXTINF:-1,UK: SCUZZ (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13934.ts
+#EXTINF:-1,UK: SKY 1 HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13937.ts
+#EXTINF:-1,UK: SKY CINEMA ACTION FHD  (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13935.ts
+#EXTINF:-1,UK: SKY CINEMA COMEDY  FHD  (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13921.ts
+#EXTINF:-1,UK: SKY CINEMA DISNEY FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13928.ts
+#EXTINF:-1,UK: SKY CINEMA DRAMA & ROMANCE FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13925.ts
+#EXTINF:-1,UK: SKY CINEMA FAMILY FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13923.ts
+#EXTINF:-1,UK: SKY CINEMA HERO FHD  (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13927.ts
+#EXTINF:-1,UK: SKY CINEMA HITS FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13915.ts
+#EXTINF:-1,UK: SKY CINEMA PREMIER FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13914.ts
+#EXTINF:-1,UK: SKY CINEMA  SCIFI & HORROR FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13916.ts
+#EXTINF:-1,UK: SKY CINEMA SELECT FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13917.ts
+#EXTINF:-1,UK: SKY CINEMA THRILLER FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13918.ts
+#EXTINF:-1,UK: SKY LIVING FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13905.ts
+#EXTINF:-1,UK: SKY NEWS HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13911.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION FHD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13912.ts
+#EXTINF:-1,UK: SKY SPORTS ARENA FHD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13910.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13907.ts
+#EXTINF:-1,UK: SKY SPORTS F1 FHD(LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13909.ts
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL FHD(LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13908.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF FHD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13896.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT FHD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13900.ts
+#EXTINF:-1,UK: SKY SPORTS MIX FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13898.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13897.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE FHD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13899.ts
+#EXTINF:-1,UK: SKY2 HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13890.ts
+#EXTINF:-1,UK: SPIKE  (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13892.ts
+#EXTINF:-1,UK: STARZ TV(LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13891.ts
+#EXTINF:-1,UK: SYFY HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13936.ts
+#EXTINF:-1,UK: TCM HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13881.ts
+#EXTINF:-1,UK: THE BOX (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13883.ts
+#EXTINF:-1,UK:TINY POP (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13887.ts
+#EXTINF:-1,UK: TLC HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13886.ts
+#EXTINF:-1,UK: THE TRAVEL CHANNEL(LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13884.ts
+#EXTINF:-1,UK: TRISTAR (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13885.ts
+#EXTINF:-1,UK: TRUE MOVIES (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13888.ts
+#EXTINF:-1,UK: TV5 MONDE (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13882.ts
+#EXTINF:-1,UK :BBC NEWS FHD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13879.ts
+#EXTINF:-1,UK: UNIVERSAL HD(LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13875.ts
+#EXTINF:-1,UK: UTV HD (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13873.ts
+#EXTINF:-1,UK: VINTAGE TV (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13874.ts
+#EXTINF:-1,UK: VIVA (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13878.ts
+#EXTINF:-1,UK: W HD* (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13877.ts
+#EXTINF:-1,UK: YESTERDAY (LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13876.ts
+#EXTINF:-1,UK: YOUR TV(LOCAl LINK 1)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/13871.ts
+#EXTINF:-1,UK:MUTV HD..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5939.ts
+#EXTINF:-1,UK:MUTV..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5940.ts
+#EXTINF:-1,UK:My 5..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5941.ts
+#EXTINF:-1,UK:Nat Geo Wild..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5942.ts
+#EXTINF:-1,UK:Nat Geo..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5943.ts
+#EXTINF:-1,UK:Nick Jr Too
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5134.ts
+#EXTINF:-1,UK:Nick Jr..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5944.ts
+#EXTINF:-1,UK:Nick Junior
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5135.ts
+#EXTINF:-1,UK:Nickelodeon..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5945.ts
+#EXTINF:-1,UK:Nicks
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5136.ts
+#EXTINF:-1,UK:NickToons
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5137.ts
+#EXTINF:-1,UK:Nicktoons..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5946.ts
+#EXTINF:-1,UK:Now TV
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5947.ts
+#EXTINF:-1,UK:PBS America..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5949.ts
+#EXTINF:-1,UK:Pick..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5950.ts
+#EXTINF:-1,UK:POP MAX..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5951.ts
+#EXTINF:-1,UK:POP..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5952.ts
+#EXTINF:-1,UK:Premier Sports HD..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5953.ts
+#EXTINF:-1,UK:Premier Sports..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5954.ts
+#EXTINF:-1,UK:QUEST..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5955.ts
+#EXTINF:-1,UK:Racing  HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5230.ts
+#EXTINF:-1,UK:Racing HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5956.ts
+#EXTINF:-1,UK:RANGERS FC TV (matchtime)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5146.ts
+#EXTINF:-1,UK:Real Lives
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5147.ts
+#EXTINF:-1,UK:Really..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5957.ts
+#EXTINF:-1,UK:RT HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7261.ts
+#EXTINF:-1,UK:RTE 2 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5962.ts
+#EXTINF:-1,UK:RTE 2 SD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9674.ts
+#EXTINF:-1,UK:RTE jr..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5959.ts
+#EXTINF:-1,UK:RTE News Now..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5960.ts
+#EXTINF:-1,UK:RTE One HD..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5961.ts
+#EXTINF:-1,UK:S4C
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5153.ts
+#EXTINF:-1,UK:S4C HD..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5963.ts
+#EXTINF:-1,UK:S4C..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5964.ts
+#EXTINF:-1,UK:Scuzz..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5965.ts
+#EXTINF:-1,UK:Setanta Ireland
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5154.ts
+#EXTINF:-1,UK:Show Biz..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5966.ts
+#EXTINF:-1,UK:Sky 1 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5156.ts
+#EXTINF:-1,UK:Sky 1 HD..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5822.ts
+#EXTINF:-1,UK:Sky 2..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5821.ts
+#EXTINF:-1,UK:Sky Arts..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5967.ts
+#EXTINF:-1,UK:Sky Atlantic HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5820.ts
+#EXTINF:-1,UK:Sky Cinema Action & Adventure HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7568.ts
+#EXTINF:-1,UK:Sky Cinema Comedy HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7567.ts
+#EXTINF:-1,UK:Sky Cinema Crime & Thriller HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7566.ts
+#EXTINF:-1,UK:Sky Cinema Disney HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7565.ts
+#EXTINF:-1,UK:Sky Cinema Drama n Romance HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7564.ts
+#EXTINF:-1,UK:Sky Cinema Family HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7563.ts
+#EXTINF:-1,UK:Sky Cinema Hits HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7562.ts
+#EXTINF:-1,UK:Sky Cinema Premiere HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7561.ts
+#EXTINF:-1,UK:Sky Cinema SciFi & Horror HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7560.ts
+#EXTINF:-1,UK:Sky Cinema Select HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7559.ts
+#EXTINF:-1,UK:Sky Living..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5819.ts
+#EXTINF:-1,UK:Sky Movies Action..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5818.ts
+#EXTINF:-1,UK:Sky Movies Comedy..
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5817.ts
+#EXTINF:-1,US:  HBO Zone HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4938.ts
+#EXTINF:-1,US: A&E TV HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4941.ts
+#EXTINF:-1,US: ABC HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4943.ts
+#EXTINF:-1,US: ABC Spark HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4942.ts
+#EXTINF:-1,US: ABC-WEST
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7994.ts
+#EXTINF:-1,US: AFN MOVIE
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4944.ts
+#EXTINF:-1,US: AFN NEWS
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4945.ts
+#EXTINF:-1,US: AFN PRIME ATLANTIC
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4946.ts
+#EXTINF:-1,US: AFN PRIME PACIFIC
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4947.ts
+#EXTINF:-1,US: AFN PULSE
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4948.ts
+#EXTINF:-1,US: AFN SPORTS
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4950.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4951.ts
+#EXTINF:-1,US: AMC HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4952.ts
+#EXTINF:-1,US: AMC HD....
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4836.ts
+#EXTINF:-1,US: AMERICAN HEROES CHANNEL
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7671.ts
+#EXTINF:-1,US: Animal Planet HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4953.ts
+#EXTINF:-1,US: BBC AMERICA
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/11742.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4954.ts
+#EXTINF:-1,US: BRAVO HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4956.ts
+#EXTINF:-1,US: BTN Sport HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4957.ts
+#EXTINF:-1,US: BYU SPORTS TV HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/11357.ts
+#EXTINF:-1,US: C-SPAN 1
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9187.ts
+#EXTINF:-1,US: C-SPAN 2
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9188.ts
+#EXTINF:-1,US: C-SPAN 3
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9189.ts
+#EXTINF:-1,US: CBS EAST HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/8482.ts
+#EXTINF:-1,US: CBS HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7744.ts
+#EXTINF:-1,US: CBS-WEST
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7993.ts
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4959.ts
+#EXTINF:-1,US: Cinemax East
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4960.ts
+#EXTINF:-1,US: CMT
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/11900.ts
+#EXTINF:-1,US: CNN HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4961.ts
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4962.ts
+#EXTINF:-1,US: COOKING CHANNEL HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7670.ts
+#EXTINF:-1,US: CW HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4963.ts
+#EXTINF:-1,US: DESTINATION AMERICA
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7672.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4964.ts
+#EXTINF:-1,US: DIY Network
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4966.ts
+#EXTINF:-1,US: EL REY NETWORK
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/11898.ts
+#EXTINF:-1,US: EPIX
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/10536.ts
+#EXTINF:-1,US: EPIX 2
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/10537.ts
+#EXTINF:-1,US: ESPN
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4967.ts
+#EXTINF:-1,US: ESPN 2
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4968.ts
+#EXTINF:-1,US: ESPN HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4969.ts
+#EXTINF:-1,US: ESPN NEWS HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7604.ts
+#EXTINF:-1,US: ESPN U
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7605.ts
+#EXTINF:-1,US: Eurosport 1 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/6294.ts
+#EXTINF:-1,US: FIGHT NETWORK/ MMA NETWORK
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7607.ts
+#EXTINF:-1,US: Food Network HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4970.ts
+#EXTINF:-1,US: FOX HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4971.ts
+#EXTINF:-1,US: Fox Sports 1 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/6940.ts
+#EXTINF:-1,US: FOX SPORTS SUN HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7768.ts
+#EXTINF:-1,US: REELZ
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7992.ts
+#EXTINF:-1,US: FREEFORM
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/11899.ts
+#EXTINF:-1,US: FX HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4973.ts
+#EXTINF:-1,US: GET TV
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7676.ts
+#EXTINF:-1,US: H2
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4974.ts
+#EXTINF:-1,US: HALLMARK HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4975.ts
+#EXTINF:-1,US: HALLMARK MOVIES & MYSTERIES
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7674.ts
+#EXTINF:-1,US: HBO
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4976.ts
+#EXTINF:-1,US: HBO COMEDY HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/8510.ts
+#EXTINF:-1,US: HBO Family HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4977.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4978.ts
+#EXTINF:-1,US: HEROES AND ICONS
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/8063.ts
+#EXTINF:-1,US: HISTORY
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4979.ts
+#EXTINF:-1,US: VH1 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7737.ts
+#EXTINF:-1,US: HSN TV 1080P
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9190.ts
+#EXTINF:-1,US: IFC HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7894.ts
+#EXTINF:-1,US: Investigation Discovery
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4980.ts
+#EXTINF:-1,US: INVESTIGATION DISCOVERY HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7727.ts
+#EXTINF:-1,US: LIFE TIME
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4981.ts
+#EXTINF:-1,US: LMN HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7721.ts
+#EXTINF:-1,US: MAX E HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/12099.ts
+#EXTINF:-1,US: MSG
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7725.ts
+#EXTINF:-1,US: MTV HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7740.ts
+#EXTINF:-1,US: BET
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7728.ts
+#EXTINF:-1,US: National Geographic
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4983.ts
+#EXTINF:-1,US: NBA TV
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4984.ts
+#EXTINF:-1,US: NBC
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4985.ts
+#EXTINF:-1,US: NBCSN
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/11743.ts
+#EXTINF:-1,US: NFL Network HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4986.ts
+#EXTINF:-1,US: NFL Now
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7319.ts
+#EXTINF:-1,US: NHL NETWORK
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7603.ts
+#EXTINF:-1,US: NICKELODEN HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4987.ts
+#EXTINF:-1,US: OUTDOOR CHANNEL
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7743.ts
+#EXTINF:-1,US: OVATION HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7675.ts
+#EXTINF:-1,US: OWN HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4988.ts
+#EXTINF:-1,US: OXYGEN HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7723.ts
+#EXTINF:-1,US: QVC TV
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9191.ts
+#EXTINF:-1,US: SEC NETWORK HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/8976.ts
+#EXTINF:-1,US: ShowTime 2 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4990.ts
+#EXTINF:-1,US: ShowTime HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4989.ts
+#EXTINF:-1,US: Showtime Showcase
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4992.ts
+#EXTINF:-1,US: CBS47
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7851.ts
+#EXTINF:-1,US: SPIKE HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4993.ts
+#EXTINF:-1,US: Starz Cinema HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4994.ts
+#EXTINF:-1,US: STARZ EDGE HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4995.ts
+#EXTINF:-1,US: Starz Encore HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7325.ts
+#EXTINF:-1,US: SYFY HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4996.ts
+#EXTINF:-1,US: TBS HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4997.ts
+#EXTINF:-1,US: Tennis Channel HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7456.ts
+#EXTINF:-1,US: TNT HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7677.ts
+#EXTINF:-1,US: TRU TV
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/11333.ts
+#EXTINF:-1,US: TV LAND
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7678.ts
+#EXTINF:-1,US: TV ONE HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7853.ts
+#EXTINF:-1,US: UFC NETWORK
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7722.ts
+#EXTINF:-1,US: USA Network HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4998.ts
+#EXTINF:-1,US: VELOCITY
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7679.ts
+#EXTINF:-1,US: VICELAND
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7847.ts
+#EXTINF:-1,US: WE TV
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7680.ts
+#EXTINF:-1,US: WEATHER NATION
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7681.ts
+#EXTINF:-1,US: WGN AMERICA
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7720.ts
+#EXTINF:-1,US: WISCONSIN NBC 12
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7741.ts
+#EXTINF:-1,US: WWE HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/4999.ts
+#EXTINF:-1,US:ABC News
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5017.ts
+#EXTINF:-1,US:Animal Planet
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5246.ts
+#EXTINF:-1,US:Bloomberg
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5032.ts
+#EXTINF:-1,US:Cartoon Network HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/5051.ts
+#EXTINF:-1,US:Cinemax
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7457.ts
+#EXTINF:-1,US:E! ENTERTAINMENT
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9078.ts
+#EXTINF:-1,US:ESPN 3
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7606.ts
+#EXTINF:-1,US:FOX NEWS HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9699.ts
+#EXTINF:-1,US:Fox Sports 2 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/6941.ts
+#EXTINF:-1,US:GRIT TV Movies
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/7322.ts
+#EXTINF:-1,|CA| ABC Spark HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9667.ts
+#EXTINF:-1,|CA| AMI
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9666.ts
+#EXTINF:-1,|CA| Animal Planet HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9665.ts
+#EXTINF:-1,|CA| AUX
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9664.ts
+#EXTINF:-1,|CA| BNN HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9663.ts
+#EXTINF:-1,|CA| Cartoon Network
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9662.ts
+#EXTINF:-1,|CA| CBS SPORTS HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9661.ts
+#EXTINF:-1,|CA| CHARD HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9660.ts
+#EXTINF:-1,|CA| City HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9659.ts
+#EXTINF:-1,|CA| CMT
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9658.ts
+#EXTINF:-1,|CA| CNBC
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9657.ts
+#EXTINF:-1,|CA| Comedy HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9656.ts
+#EXTINF:-1,|CA| Cooking HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9655.ts
+#EXTINF:-1,|CA| Crime Investigation
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9654.ts
+#EXTINF:-1,|CA| CTV HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9653.ts
+#EXTINF:-1,|CA| Deja View
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9652.ts
+#EXTINF:-1,|CA| Discovery HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9651.ts
+#EXTINF:-1,|CA| Discovery Science
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9650.ts
+#EXTINF:-1,|CA| Disney Channel West HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9649.ts
+#EXTINF:-1,|CA| DISNEY HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9648.ts
+#EXTINF:-1,|CA| Disney JR
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9647.ts
+#EXTINF:-1,|CA| DIY
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9646.ts
+#EXTINF:-1,|CA| Documentary Channel HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9645.ts
+#EXTINF:-1,|CA| DTOUR HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9644.ts
+#EXTINF:-1,|CA| ESPN Classic
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9643.ts
+#EXTINF:-1,|CA| Fishing
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9642.ts
+#EXTINF:-1,|CA| Food Network HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9641.ts
+#EXTINF:-1,|CA| FS2 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9640.ts
+#EXTINF:-1,|CA| FX HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9639.ts
+#EXTINF:-1,|CA| FYI
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9638.ts
+#EXTINF:-1,|CA| Global HD BC
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9637.ts
+#EXTINF:-1,|CA| GOLF HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9636.ts
+#EXTINF:-1,|CA| HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9635.ts
+#EXTINF:-1,|CA| HGTV HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9634.ts
+#EXTINF:-1,|CA| HIFI HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9633.ts
+#EXTINF:-1,|CA| History HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9632.ts
+#EXTINF:-1,|CA| ICI HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9631.ts
+#EXTINF:-1,|CA| ID HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9630.ts
+#EXTINF:-1,|CA| IFC
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9629.ts
+#EXTINF:-1,|CA| K HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9628.ts
+#EXTINF:-1,|CA| Lifetime HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9627.ts
+#EXTINF:-1,|CA| Love Nature HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9626.ts
+#EXTINF:-1,|CA| MovieTime HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9625.ts
+#EXTINF:-1,|CA| MSNBC
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9624.ts
+#EXTINF:-1,|CA| MTV
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9623.ts
+#EXTINF:-1,|CA| MTV2
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9622.ts
+#EXTINF:-1,|CA| MUCH
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9621.ts
+#EXTINF:-1,|CA| Nat Geo HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9620.ts
+#EXTINF:-1,|CA| Nat Geo Wild HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9619.ts
+#EXTINF:-1,|CA| Nick
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9616.ts
+#EXTINF:-1,|CA| OLN
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9615.ts
+#EXTINF:-1,|CA| Omni
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9614.ts
+#EXTINF:-1,|CA| OMNI HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/12387.ts
+#EXTINF:-1,|CA| Omni2 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9613.ts
+#EXTINF:-1,|CA| OWN
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9611.ts
+#EXTINF:-1,|CA| RDI HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9610.ts
+#EXTINF:-1,|CA| Showcase HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9609.ts
+#EXTINF:-1,|CA| Slice HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9607.ts
+#EXTINF:-1,|CA| Smithsonian HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9606.ts
+#EXTINF:-1,|CA| Sundance
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9605.ts
+#EXTINF:-1,|CA| SuperChannel 2 HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9604.ts
+#EXTINF:-1,|CA| Telemundo
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9603.ts
+#EXTINF:-1,|CA| TMN 1E HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9602.ts
+#EXTINF:-1,|CA| TV Encore
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9601.ts
+#EXTINF:-1,|CA| TVO
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9600.ts
+#EXTINF:-1,|CA| TWN HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9599.ts
+#EXTINF:-1,|CA| Unis tv
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9598.ts
+#EXTINF:-1,|CA| Viceland
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9597.ts
+#EXTINF:-1,|CA| W HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9596.ts
+#EXTINF:-1,|CA| Yes HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9595.ts
+#EXTINF:-1,|CA| YTV HD
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/9594.ts
+&nbsp;
