@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1, --------Awesome.tv-----
-
-
 #EXTINF:-1,UK: 4Seven HD (LOCAl LINK 1)
 http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14064.ts
 #EXTINF:-1,UK: 5Star (LOCAl LINK 1)
